@@ -1,0 +1,52 @@
+/* style.css */
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-nav li a {
+    color: #fff;
+}
+
+.container {
+    text-align: center;
+}
+
+.bio-container {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Style for the lists */
+.list {
+    list-style-type: none;
+}
+
+.list li {
+    margin-bottom: 10px;
+}
+
+.container-p2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-p2 .content {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.background-image {
+    height: 200px;
+    margin-bottom: 20px;
+}
